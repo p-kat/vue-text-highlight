@@ -14,9 +14,7 @@
 ## Installation
 
 ```bash
-npm install --save vue-text-highlight
-# or
-yarn add vue-text-highlight
+npm install --save vue-text-highlight-international
 ```
 
 ## Usage
