@@ -39,8 +39,8 @@ export default function indicesOf(
   }
 
   if (!diacriticsSensitive) {
-    strCpy = strCpy.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-    searchStringCpy = searchStringCpy.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    strCpy = strCpy.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    searchStringCpy = searchStringCpy.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
   }
 
   let startIndex = 0;
