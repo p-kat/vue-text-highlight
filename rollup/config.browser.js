@@ -4,10 +4,10 @@ import base from './config.base';
 
 const config = Object.assign({}, base, {
   output: {
-    file: 'dist/vue-text-highlight.min.js',
+    file: 'dist/vue-text-highlight-international.min.js',
     format: 'iife',
     exports: 'named',
-    name: 'VueTextHighlight',
+    name: 'VueTextHighlightInternational',
   },
 });
 
