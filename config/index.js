@@ -50,7 +50,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist/web'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/vue-text-highlight/',
+    assetsPublicPath: '/vue-text-highlight-international/',
 
     /**
      * Source Maps
