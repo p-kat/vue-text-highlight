@@ -1,11 +1,11 @@
 {
   "name": "vue-text-highlight-international",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Text highlighter for Vue.js",
   "author": "Petros Katsaras <katsaraspetros@gmail.com>",
-  "main": "dist/vue-text-highlight.umd.js",
-  "module": "dist/vue-text-highlight.esm.js",
-  "unpkg": "dist/vue-text-highlight.min.js",
+  "main": "dist/vue-text-highlight-international.umd.js",
+  "module": "dist/vue-text-highlight-international.esm.js",
+  "unpkg": "dist/vue-text-highlight-international.min.js",
   "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
