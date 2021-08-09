@@ -1,9 +1,7 @@
 build
 config
-dist/web
 node_modules
 rollup
-src
 static
 test
 web
