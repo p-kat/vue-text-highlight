@@ -7,7 +7,7 @@ const config = Object.assign({}, base, {
   output: {
     file: 'dist/component.js',
     format: 'umd',
-    name: 'vue-text-highlight',
+    name: 'vue-text-highlight-international',
   },
   plugins: [
     css({
